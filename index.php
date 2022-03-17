@@ -8,7 +8,6 @@
 <form action="b.php" method="post" enctype="multipart/form-data">>
 <input type="file" name="f"/>
 <button> show  </button>
-
 </form>
 </body>
 </html>
